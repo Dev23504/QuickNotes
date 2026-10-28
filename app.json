@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "QuickNotes",
+    "slug": "quicknotes-devraj",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.devraj.quicknotes",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "be45942f-4808-4032-b941-c608850e4ce4"
+      }
+    }
+  }
+}
